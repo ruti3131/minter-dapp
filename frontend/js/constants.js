@@ -1,9 +1,9 @@
 const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the FunScles NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The FunSicles NFT live on the Polygon blockchain, A FnS is also your keycard and ticket to many upcoming events. for more info click 👉  <a href="https://dev-funsicles.pantheonsite.io/"  target="_blank" rel="noopener noreferrer">FunSicles</a> YouTube channel.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
@@ -18,7 +18,7 @@ const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
 const button_presale_already_minted = "Join The Community";
-const button_public_mint = "Mint Your NFT";
+const button_public_mint = "Mint Your FunSicle";
 const mint_failed = "Minting failed. 😢 Please try again.";
 
 const abi = [
