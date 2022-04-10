@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the FunScles NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The FunSicles NFT live on the Polygon blockchain, A FnS is also your keycard and ticket to many upcoming events. for more info click 👉  <a href="https://dev-funsicles.pantheonsite.io/"  target="_blank" rel="noopener noreferrer">FunSicles</a> YouTube channel.';
+const welcome_p = 'FnS is a collection of 10,000 FunSicles, NFTs—unique digital collectibles living on the Polygon blockchain. Your FunSicle is also a Keycard, and grants access to members-only benefits,  for more info click 👉  <a href="https://dev-funsicles.pantheonsite.io/"  target="_blank" rel="noopener noreferrer">FunSicles</a> YouTube channel.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
